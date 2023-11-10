@@ -1,0 +1,48 @@
+1. Update the graph with respect to age gender fare :white check
+2. Update the data header with description :white check
+3. Update the variable with categorical variable :white check
+5. Add violin plot horizontal,distribution plot and add qna :white check
+6. Add BarPlot  with 14 variable coeraltion with survived :white check
+7. Training data selection needs changed to slider :white check 
+9. Normalize data in backend|:white check
+13. Fix output feature to survived :white check
+1. change Label Encoding to Understanding types of data :white check
+a. Explain subtype categorical and non categorical:white check
+2. add table sample in label encoding  :white check
+3. change absolute value from to percentage :white check
+4. Change 0 to  1 to  survived and not survived :white check
+5. bar plots -> Visualising data with survival :white check
+6. have radio button for mcq for data visualing :white check
+11. Fix decision tree :white check
+8. Add Loss Function changes in realtime :white check 
+12. Remove sidebar  :white check 
+10. Predict on Custom Feature :white check
+
+
+
+13 .Add all rest of variable for understanding survive plcass :white check
+c -> survive pclass gender  embarked
+nc -> name  age sibsp parch ticket fare 
+14. Change ND to NC :white check
+15. Survived passenger by gender change male and female to survived and not survived :white check
+16. Remove Ticket, Pclass vs Survival  2above 1st
+add  :white check
+17. notes to Can you try find out summary of the graph :white check
+18. add notes to correct right answer and add real life example 
+19 Check label encoding :white check
+20. Pclass & Gender vs. Survival remove 1st plot and change 2nd plot desing to 1st plot :white check
+21. In incorrect provide a hint :white check
+22.     
+23. Increase plots size
+24 Embark Southampton 
+25. add full form for graphs
+26. Embark vsage and gender vs age will be removed
+27. Add baby and older img
+28. absolute value 
+28. Case:1 Name PID this is expected because
+29. add table for categorical 
+30. Age vs. Survival  show only pclass vs age
+31. Correlation with Survival seprate section
+32. Run AI Model button everything of model building should be happend backednd
+
+33. Advanced setting for AI model -> model building 
